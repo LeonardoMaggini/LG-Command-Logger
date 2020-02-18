@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG Command Logger", "LG Command Logger\LG Command Logger.csproj", "{16C7B41F-B8C9-4584-BAB4-1F5956FD57F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGCommands", "LGCommands\LGCommands.csproj", "{942EB745-CC05-44E0-A17E-42DCB2635154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C7B41F-B8C9-4584-BAB4-1F5956FD57F8}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{16C7B41F-B8C9-4584-BAB4-1F5956FD57F8}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{16C7B41F-B8C9-4584-BAB4-1F5956FD57F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C7B41F-B8C9-4584-BAB4-1F5956FD57F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942EB745-CC05-44E0-A17E-42DCB2635154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942EB745-CC05-44E0-A17E-42DCB2635154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942EB745-CC05-44E0-A17E-42DCB2635154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942EB745-CC05-44E0-A17E-42DCB2635154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
