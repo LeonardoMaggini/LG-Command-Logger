@@ -1,0 +1,17 @@
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\LG Command Logger.exe.config
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\LG Command Logger.exe
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\LG Command Logger.pdb
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\LGCommands.dll
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\Logger.dll
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\LGCommands.pdb
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\bin\Debug\Logger.pdb
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG Command Logger.csprojResolveAssemblyReference.cache
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG_Command_Logger.Form1.resources
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG_Command_Logger.FormOptions.resources
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG_Command_Logger.ObjectCommandParser.resources
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG_Command_Logger.Properties.Resources.resources
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG Command Logger.csproj.GenerateResource.Cache
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG Command Logger.exe
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG Command Logger.pdb
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG_Command_Logger.AboutBox1.resources
+D:\Proyectos .NET\LG Command Logger\LG Command Logger\obj\Debug\LG_Command_Logger.FormMain.resources

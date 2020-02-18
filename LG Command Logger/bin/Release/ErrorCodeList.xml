@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ErrorCodeList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ErrorCodes>
+<Error_Code>	      <ErrorCode>	36864	</ErrorCode>	<Descripcion>	Comando finalizado exitosamente                           	</Descripcion> <Category>3</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36865	</ErrorCode>	<Descripcion>	Comando no reconocido                                     	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36866	</ErrorCode>	<Descripcion>	Comando no habilitado                                     	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36867	</ErrorCode>	<Descripcion>	Identificacion requerida                                  	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36868	</ErrorCode>	<Descripcion>	Inicializacion requerida                                  	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36869	</ErrorCode>	<Descripcion>	Parametro Incorrecto                                      	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36870	</ErrorCode>	<Descripcion>	WK Bloqueado                                              	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36871	</ErrorCode>	<Descripcion>	Verificacion fallida                                      	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36872	</ErrorCode>	<Descripcion>	LG Bloqueado                                              	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36873	</ErrorCode>	<Descripcion>	LG Actualizando Firmware                                  	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36880	</ErrorCode>	<Descripcion>	Limite de Recargas por Turno                              	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36881	</ErrorCode>	<Descripcion>	PIN requerido                                             	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36897	</ErrorCode>	<Descripcion>	No pudo leer el SGC principal								</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37632	</ErrorCode>	<Descripcion>	Hardware no responde                                      	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37633	</ErrorCode>	<Descripcion>	No se ha detectado una Tarjeta                            	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37634	</ErrorCode>	<Descripcion>	Modelo de Tarjeta no soportado                            	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37635	</ErrorCode>	<Descripcion>	Tarjeta no compatible SUBE                                	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37636	</ErrorCode>	<Descripcion>	Tarjeta no corresponde con la seleccionada                	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37637	</ErrorCode>	<Descripcion>	Error de Autencacion                                      	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37638	</ErrorCode>	<Descripcion>	Error de Lectura                                          	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37639	</ErrorCode>	<Descripcion>	Error de Escritura                                        	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37640	</ErrorCode>	<Descripcion>	Error de Validacion SGC                                   	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37641	</ErrorCode>	<Descripcion>	Error de Validacion Card Info                             	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37648	</ErrorCode>	<Descripcion>	Error de Validacion Generico                              	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37649	</ErrorCode>	<Descripcion>	Emisor inexistente                                        	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37650	</ErrorCode>	<Descripcion>	Error de Validacion Aplicacion                            	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37651	</ErrorCode>	<Descripcion>	Tarjeta Activada                                          	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37652	</ErrorCode>	<Descripcion>	Existe mas de una Tarjeta                                 	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37653	</ErrorCode>	<Descripcion>	Limite de Aplicaciones alcanzado                          	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37654	</ErrorCode>	<Descripcion>	Error de validación Recargas Diferidas Versión 1.			</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37655	</ErrorCode>	<Descripcion>	Sub código fuera de rango  	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37656	</ErrorCode>	<Descripcion>	Requiere consulta a LG_Server	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37657	</ErrorCode>	<Descripcion>	Límite de compras mensual alcanzado	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37664	</ErrorCode>	<Descripcion>	Formato y valor de SGC incorrecto	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36874	</ErrorCode>	<Descripcion>	Actualizacion requerida                                   	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36875	</ErrorCode>	<Descripcion>	Apertura de Turno requerida                               	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36876	</ErrorCode>	<Descripcion>	Cierre de Turno requerido                                 	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36878	</ErrorCode>	<Descripcion>	Limite de Horas sin Inicializar                           	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	36879	</ErrorCode>	<Descripcion>	Limite de Turnos sin Inicializar                          	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37642	</ErrorCode>	<Descripcion>	Tarjeta/Aplicacion Bloqueada                              	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37642	</ErrorCode>	<Descripcion>	Aplico Crypto de la Muerte	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37643	</ErrorCode>	<Descripcion>	Tarjeta Suspendida                                        	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37644	</ErrorCode>	<Descripcion>	Tarjeta/Aplicacion Vencida                                	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37645	</ErrorCode>	<Descripcion>	Error de Validacion Purse/PurseExt                        	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37646	</ErrorCode>	<Descripcion>	Error de Validacion History                               	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37647	</ErrorCode>	<Descripcion>	Error de Validacion Transit                               	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37659	</ErrorCode>	<Descripcion>	Actualizó Aplicación Micropago	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37660	</ErrorCode>	<Descripcion>	No pudo actualizar Aplicación Micropago.	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37661	</ErrorCode>	<Descripcion>	Actualizó Purse Type	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37662	</ErrorCode>	<Descripcion>	No pudo actualizar Purse Type.	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37663	</ErrorCode>	<Descripcion>	No hay Novedades para la Tarjeta	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	37665	</ErrorCode>	<Descripcion>	Carga Dudosa	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40944	</ErrorCode>	<Descripcion>	Slot de SmartCard incorrecto                              	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40945	</ErrorCode>	<Descripcion>	Timeout en la recepcion de la SmartCard                   	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40946	</ErrorCode>	<Descripcion>	APDU invalido                                             	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40947	</ErrorCode>	<Descripcion>	Largo invalido                                            	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40948	</ErrorCode>	<Descripcion>	Status Byte invalido                                      	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40949	</ErrorCode>	<Descripcion>	Procedre Byte invalido                                    	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40950	</ErrorCode>	<Descripcion>	Timeout en la recepcion del ATR en el PowerUp             	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40951	</ErrorCode>	<Descripcion>	ATR invalido                                              	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40952	</ErrorCode>	<Descripcion>	SmartCard no energizada                                   	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	40953	</ErrorCode>	<Descripcion>	Protocolo no soportado                                    	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61440	</ErrorCode>	<Descripcion>	El LGID enviado es incorrecto                             	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61441	</ErrorCode>	<Descripcion>	El POSID enviado es incorrecto                            	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61442	</ErrorCode>	<Descripcion>	Los Identificadores enviados por el SW son incorrecto     	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61443	</ErrorCode>	<Descripcion>	Se requiere actualizar tablas                             	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61444	</ErrorCode>	<Descripcion>	El largo del Bloque es incorrecto                         	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61445	</ErrorCode>	<Descripcion>	El Bloque de la Tabla es incorrecto                       	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61446	</ErrorCode>	<Descripcion>	La Secuencia enviada es incorrecta                        	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61447	</ErrorCode>	<Descripcion>	El CRC de la Tabla es incorrecto                          	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61448	</ErrorCode>	<Descripcion>	El CRC del Bloque es incorrecto                           	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61449	</ErrorCode>	<Descripcion>	La Version/CRC es incorrecta                              	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61450	</ErrorCode>	<Descripcion>	Solicitud de Creditos requerida                           	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61451	</ErrorCode>	<Descripcion>	El Emisor enviado es incorrecto                           	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61452	</ErrorCode>	<Descripcion>	El importe de la operacion no esta permitido              	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61453	</ErrorCode>	<Descripcion>	El Emisor de la Tarjeta es incorrecto                     	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61454	</ErrorCode>	<Descripcion>	Saldo insuficiente para la operacion                      	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61455	</ErrorCode>	<Descripcion>	El importe de la operacion excede el maximo permitido     	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61456	</ErrorCode>	<Descripcion>	Limite de TX alcanzado, cierre turno y descarge TX        	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61457	</ErrorCode>	<Descripcion>	Limite de Lotes alcanzado, descarge Lotes al SWT          	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61458	</ErrorCode>	<Descripcion>	El Lote enviado es incorrecto                             	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61459	</ErrorCode>	<Descripcion>	Anulacion no permitida                                    	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61460	</ErrorCode>	<Descripcion>	Recarga no permitida                                      	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61461	</ErrorCode>	<Descripcion>	FW no corresponde con la marca del LG	</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	61462	</ErrorCode>	<Descripcion>	Débito no permitido (ARC)	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64768	</ErrorCode>	<Descripcion>	N/A                                                       	</Descripcion> <Category>5</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64769	</ErrorCode>	<Descripcion>	Error Generico                                            	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64770	</ErrorCode>	<Descripcion>	Tamaño demasiado largo                                    	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64771	</ErrorCode>	<Descripcion>	Fuera de Rango                                            	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64772	</ErrorCode>	<Descripcion>	FAT Llena                                                 	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64773	</ErrorCode>	<Descripcion>	Tabla inexistente                                         	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64774	</ErrorCode>	<Descripcion>	Error de Escritura                                        	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64784	</ErrorCode>	<Descripcion>	No existe espacio en la Tabla de Transacciones            	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	64785	</ErrorCode>	<Descripcion>	Error al obtener datos de la Tabla                        	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65024	</ErrorCode>	<Descripcion>	N/A                                                       	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65025	</ErrorCode>	<Descripcion>	Modulo SAM no inicializado                                	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65026	</ErrorCode>	<Descripcion>	RC531 no inicializado                                     	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65028	</ErrorCode>	<Descripcion>	Flash incorrecta                                          	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65032	</ErrorCode>	<Descripcion>	FAT incorrecta                                            	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65040	</ErrorCode>	<Descripcion>	FS incorrecto                                             	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65048	</ErrorCode>	<Descripcion>	FAT / FS incorrecto. Error en la memoria.					</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65056	</ErrorCode>	<Descripcion>	Serial Number incorrecto                                  	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65088	</ErrorCode>	<Descripcion>	RTC incorrecto                                            	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65152	</ErrorCode>	<Descripcion>	EEPROM incorrecta                                         	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	65153	</ErrorCode>	<Descripcion>	SAM incorrecto	</Descripcion> <Category>4</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25601	</ErrorCode>	<Descripcion>	Error, no se encontraron cargas pendientes para la tarjeta solicitada	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	26369	</ErrorCode>	<Descripcion>	Error, no se encontraron novedades de aplicaciones para la tarjeta solicitada	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25603	</ErrorCode>	<Descripcion>	Error, la tarjeta se encuentra en lista negra	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25604	</ErrorCode>	<Descripcion>	Error, la tarjeta es inexistente	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25617	</ErrorCode>	<Descripcion>	Error, la transacción ya está reversada	</Descripcion> <Category>2</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25540	</ErrorCode>	<Descripcion>	Error, PIN</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25539	</ErrorCode>	<Descripcion>	Error, PIN 1er reintento</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25538	</ErrorCode>	<Descripcion>	Error, PIN 2do reintento</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25537	</ErrorCode>	<Descripcion>	Error, PIN 3er reintento</Descripcion> <Category>1</Category>	</Error_Code>
+<Error_Code>	      <ErrorCode>	25536	</ErrorCode>	<Descripcion>	Error, PIN 4to reintento</Descripcion> <Category>1</Category>	</Error_Code>
+</ErrorCodes>
+</ErrorCodeList>
