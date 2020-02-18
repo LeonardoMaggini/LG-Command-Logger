@@ -1,0 +1,4 @@
+D:\Proyectos .NET\LG Command Logger\LGCommands\bin\Debug\LGCommands.dll
+D:\Proyectos .NET\LG Command Logger\LGCommands\bin\Debug\LGCommands.pdb
+D:\Proyectos .NET\LG Command Logger\LGCommands\obj\Debug\LGCommands.dll
+D:\Proyectos .NET\LG Command Logger\LGCommands\obj\Debug\LGCommands.pdb
